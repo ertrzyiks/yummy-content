@@ -1,6 +1,6 @@
 ---
 title: Kremowa zupa dyniowa
-date: '2019-01-06T23:40:00Z'
+date: '2019-08-10T11:40:00Z'
 required_time: 60min
 tags:
  - wegetariańskie
@@ -18,8 +18,9 @@ Tak jak curry, a jednak inaczej.
 - 2 ząbki czosnku
 - 1 pomidor
 - szklanka mleka
-- 0,5kg ziemniaków
+- 1kg ziemniaków
 - 37,5g masła
+- mały kawałek imbiru (~3cm)
 - 1 łyżeczka kurkumy
 - sól, pieprz
 
@@ -31,6 +32,8 @@ Dynię obrać i pokroić w średnią kostkę. Wrzucić do garnka. Ziemniaki obra
 
 Cebulę i czosnek drobno posiekać i podsmażyć na 25g masła. Dorzucić razem z roztopionym masłem do garnka.
 Pomidora pociąć w drobne kawałki i dodać do zupy.
+
+Imbir zetrzeć na drobnych oczkach lub drobno pokroić i dorzucić do garnka.
 
 Dodać kurkumę i pieprz czarny. Gotować do miękkości.
 Dodać szklankę mleka i całość zblendować na jednolitą masę.
