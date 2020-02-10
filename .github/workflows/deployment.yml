@@ -12,6 +12,7 @@ jobs:
         with:
           repository: yummy-recipes/yummy
           path: app
+          ref: latest
       - uses: actions/checkout@v2
         with:
           repository: yummy-recipes/yummy-content
@@ -31,7 +32,7 @@ jobs:
       - run: yarn install --frozen-lockfile
         working-directory: app
       - name: Build project
-        run: for i in {1..3}; do yarn lerna run --scope @yummy/core build && break; done
+        run: for i in {1..3}; do yarn lerna run --scope @yummy/blog build && break; done
         env:
           NODE_OPTIONS: --max_old_space_size=4096
         working-directory: app
@@ -47,4 +48,4 @@ jobs:
           git add .
           git commit -m 'Update'
           git push dokku master --force
-        working-directory: app/packages/core/public
+        working-directory: app/packages/blog/public
