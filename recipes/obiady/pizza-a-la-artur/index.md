@@ -15,15 +15,21 @@ Epizzkie danie.
 
 ### Ciasto
 
-Na 2 pizze:
-- 25g drożdży świeżych
-- 1 łyżka mleka
-- letnia woda przegotowana
-- 2,5 szklanki + 1 łyżka mąki pszennej
-- 6 łyżek oliwy
-- 1 jajko
-- sól, cukier, pieprz
-- oregano, bazylii
+Na 3 pizze:
+
+Rozczyn:
+- 37,5g drożdży świeżych
+- 2 łyżki mleka
+- 2 łyżki letniej wody przegotowanej
+- 1,5 łyżki mąki pszennej
+- szczypta soli
+- szczypta cukru lub 1 łyżeczka jeżeli mleko jest bez laktozy
+
+Ciasto:
+- 3,75 szklanki mąki pszennej
+- 9 łyżek oliwy
+- 2 jajka
+- sól, pieprz, oregano, bazylia
 
 ### Dodatki
 
@@ -37,10 +43,10 @@ Na 2 pizze:
 
 ## Przygotowanie
 
-Drożdże w temperaturze pokojowej zalać łyżką mleka, łyżką letniej wody, dodać szczyptę (na końcu noża) soli i cukru oraz łyżkę mąki.
+Drożdże w temperaturze pokojowej zalać mlekiem, letnią wodą, dodać sól, cukier i mąkę.
 Wymieszać i odstawić pod szmatką na 15 min.
 
-Zmieszać 2,5 szklanki mąki, 1 jajko, 6 łyżek oliwy. Dodać podrośnięte drożdże i ok. 0,5 szklanki letniej wody.
+Zmieszać składniki na ciasto z rozczynem drożdżowym.
 Dodać niecałą płaską łyżeczkę soli, trochę pieprzu, oregana i bazylii.
 Ciasto wyrabiać na gładką elastyczną masę przez ok. 15 min. Po tym czasie zostawić do wyrośnięcia na 30 min pod szmatką.
 Ciasto możemy też zostawić w lodówce na noc i wykorzystać następnego dnia.
