@@ -1,11 +1,10 @@
-name: CD
+name: Pipeline
 
 on: [push, repository_dispatch]
 
 jobs:
-  execute:
+  build:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/master'
 
     steps:
       - uses: actions/checkout@v2
@@ -36,6 +35,19 @@ jobs:
         env:
           NODE_OPTIONS: --max_old_space_size=4096
         working-directory: app
+      - uses: actions/upload-artifact@v2
+        with:
+          name: public
+          path: app/packages/blog/public/
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    if: github.ref == 'refs/heads/master'
+    steps:
+      - uses: actions/download-artifact@v2
+        with:
+          name: public
       - uses: webfactory/ssh-agent@v0.2.0
         with:
           ssh-private-key: ${{ secrets.DOKKU_DEPLOY_KEY }}
